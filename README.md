@@ -44,7 +44,7 @@ Priority: u=0
 
 ## _Proof of Concept:_
 
-See [BG_PETITION_Report1](https://github.com/damienmagdangal/petitionph-bug-idor/blob/main/BG_PETITION_Report1.md)
+See [BG_PETITION_Report1](https://github.com/damienmagdangal/petitionph-bug-idor/blob/main/BG_PETITION_Report1.pdf)
 
 ## _Impact and Attack Scenario:_
 
