@@ -10,7 +10,7 @@ This issue constitutes a **Broken Access Control** vulnerability, specifically a
 
 ---
 ## _Severity:_ **High**
-
+---
 
 ## _Steps to Reproduce:_
 
@@ -41,6 +41,10 @@ Priority: u=0
 
 {"title":"Hacked Petition","description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.","type":"national","target_count":100000,"category_ids":["5","10","2"],"status":"closed"}
 ```
+
+## _Proof of Concept:_
+
+See [BG_PETITION_Report1](https://github.com/damienmagdangal/petitionph-bug-idor/blob/main/BG_PETITION_Report1.md)
 
 ## _Impact and Attack Scenario:_
 
